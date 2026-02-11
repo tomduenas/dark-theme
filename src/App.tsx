@@ -13,7 +13,7 @@ function App() {
           <div className="hidden md:flex items-center space-x-8">
             <a href="#features" className="text-gray-400 hover:text-white transition-colors">Features</a>
             <a href="#testimonials" className="text-gray-400 hover:text-white transition-colors">Testimonials</a>
-            <a href="#pricing" className="text-gray-400 hover:text-white transition-colors">Pricing</a>
+            <a href="#pricing" className="text-gray-400 hover:text-white transition-colors">Prices</a>
             <button className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
               Get Started
             </button>
